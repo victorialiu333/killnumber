@@ -1,0 +1,3 @@
+"C:\Users\admin\AppData\Local\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\NO_24.dir/objects.a
+C:\Users\admin\Desktop\MinGW\MinGW\bin\ar.exe cr CMakeFiles\NO_24.dir/objects.a @CMakeFiles\NO_24.dir\objects1.rsp
+C:\Users\admin\Desktop\MinGW\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\NO_24.dir/objects.a -Wl,--no-whole-archive  -o NO_24.exe -Wl,--out-implib,libNO_24.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\NO_24.dir\linklibs.rsp

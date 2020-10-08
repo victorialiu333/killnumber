@@ -1,0 +1,3 @@
+D:/C/class guoqing/untitled/untitled/NO.24/cmake-build-debug/CMakeFiles/NO_24.dir
+D:/C/class guoqing/untitled/untitled/NO.24/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C/class guoqing/untitled/untitled/NO.24/cmake-build-debug/CMakeFiles/rebuild_cache.dir
